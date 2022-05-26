@@ -1,0 +1,15 @@
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-nav a:hover {
+    text-decoration: underline;
+}
+
+#features {
+    margin-top: 3rem;
+}
+
+#features ul li h1 i {
+    font-size: 1.7rem;
+}
