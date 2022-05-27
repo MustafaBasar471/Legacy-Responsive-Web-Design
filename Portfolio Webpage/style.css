@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+    background: linear-gradient(to right , #343639 , #1D1D1F); 
+}
+
+#navbar {
+    background-color: #BE3144;
+    padding: 0.7rem;
+}
+
+#navbar .navbar-nav a {
+    font-weight: 700;
+}
+
+#welcome {
+    margin-bottom: 400px;
+}
+
+#welcome-section p{ 
+    color: red;
+    font-size: 25px;
+}
+
+#projects {
+    padding: 5rem;
+    background-color: #45567D;
+}
+
+#projects #header h1 {
+    position: absolute;
+    font-weight: 700;
+    padding: 10px;
+    left: 50%;   transform: translate(-50%, -50%);
+    border-bottom: 2px solid white;
+}
+
+#header-main {
+    margin-top: 3.5rem;
+}
+
+.card img {
+    max-height: 240px;
+}
+
+.card .card-body {
+    background-color: #e5e5e5;
+}
+
+#contact-me {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #303841;
+}
+
+#contact-me h1 {
+    position: absolute;
+    font-weight: 700;
+    padding: 10px;
+    left: 50%;   transform: translate(-50%, -50%);
+    border-bottom: 2px solid white;
+}
+
+#list {
+    margin-top: 4rem;
+}
